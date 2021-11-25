@@ -16,7 +16,7 @@ system, thus reducing the device performance.
 
 
 **ARP Flooding Consequences:**
-1. Reduced device performance
+1. Device performance gets reduced
 2. Unable to connect to the other devices in a network
 3. Very high volume of Network Traffic to the system
 4. Decrease in the Internet speed
